@@ -3,6 +3,8 @@
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
+  "repository": "https://github.com/felixyeungdev/hk-nexttrain.git",
+  "bugs": "https://github.com/felixyeungdev/hk-nexttrain/issues",
   "files": [
     "dist",
     "src"
@@ -32,7 +34,8 @@
     "trailingComma": "es5"
   },
   "name": "hk-nexttrain",
-  "author": "Felix Yeung",
+  "author": "Felix Yeung Lai Ting",
+  "description": "Non-official Node.JS wrapper for Next Train",
   "module": "dist/hk-nexttrain.esm.js",
   "size-limit": [
     {
